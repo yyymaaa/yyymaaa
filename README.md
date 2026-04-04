@@ -1,4 +1,4 @@
-### Hey, I'm Amy. 
+### Hi, I'm Amy. 
 I'm a final-year Computer Science student with a deep interest in systems engineering, operating systems, and low-level software. I like understanding how things work underneath; kernels, memory, compilers, the works.
 Right now I'm building things, breaking them, and writing about both.
 
